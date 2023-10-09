@@ -19,6 +19,9 @@ export default {
   <h1>{{text}}</h1>
 </template>
 
-<style>
-
+<style scoped>
+  h1{
+    text-align: center;
+    padding: 50px;
+  }
 </style>
